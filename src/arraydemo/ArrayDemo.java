@@ -8,7 +8,8 @@ import java.util.Scanner;
 
 /**
  * Hello this has been edited from remote
- *Commenting for modification on jan 17 at 9:48 AM
+ * This is for fetch and merge
+ * Commenting for modification on jan 17 at 9:48 AM
  * @author Muskan
  */
 public class ArrayDemo {
