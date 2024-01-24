@@ -18,6 +18,7 @@ public class ArrayDemo {
     @SuppressWarnings("empty-statement")
     public static void main(String[] args) {
         System.out.println("Enter a word");
+        System.out.println("Hii there!");
         Scanner input =new Scanner(System.in);
         
         String myWord = input.nextLine();
